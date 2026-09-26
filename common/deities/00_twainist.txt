@@ -5,6 +5,9 @@
 			common_deity_trigger = {
 				RELIGION = twainist
 			}
+			rare_deity_trigger = {
+				RELIGION = missisippian
+			}
 			deity:omen_twain = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -57,6 +60,9 @@ deity_columbia = {
 			}
 			rare_deity_trigger = {
 				RELIGION = heartful
+			}
+			very_rare_deity_trigger = {
+				RELIGION = missisippian
 			}
 			deity:omen_columbia = {
 				holy_site_deity_check_trigger = yes
@@ -236,6 +242,9 @@ deity_sawyer = { # Tom Sawyer and Huckleberry Finn
 			rare_deity_trigger = {
 				RELIGION = twainist
 			}
+			rare_deity_trigger = {
+				RELIGION = missisippian
+			}
 			deity:omen_sawyer = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -312,6 +321,10 @@ deity_big_muddy = { #Personificiation of the confluence of the Missouri and Miss
 				RELIGION = twainist
 				CULTURE = gatewayan
 			}
+			rare_deity_culture_trigger = {
+				RELIGION = missisippian
+				CULTURE = gatewayan
+			}
 			deity:omen_big_muddy = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -337,6 +350,9 @@ deity_missouri = { #Personification of the Missouri River, represents 1800's set
 			very_rare_deity_trigger = {
 				RELIGION = twainist
 			}
+			very_rare_deity_trigger = {
+				RELIGION = missisippian
+			}
 			deity:omen_missouri = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -361,6 +377,9 @@ deity_illinois = { #Personification of the Illinois River, represents great metr
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = twainist
+			}
+			very_rare_deity_trigger = {
+				RELIGION = missisippian
 			}
 			deity:omen_illinois = {
 				holy_site_deity_check_trigger = yes
@@ -398,7 +417,7 @@ deity_bellamy = { #Edward Bellamy, pseudo-socialist who wrote the utopian novel 
 	icon = deity_fertility
 	passive_modifier = { global_citizen_output = deity_global_citizen_output_svalue }
 	omen = { price_found_metropolis_cost_modifier = -0.25 } #Bonus from Omen
-	religion = twainist
+	religion = ozymandism
 	deity_category = fertility #This Deity uses a War slot.
 	deification_trigger = {
 		can_deify_trigger = yes

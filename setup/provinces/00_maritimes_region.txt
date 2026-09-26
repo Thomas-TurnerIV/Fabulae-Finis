@@ -66,7 +66,7 @@
 674={ #
 	terrain="forest"
 	culture="acadien"
-	religion="ursuline"
+	religion="fogsong"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 2134={ #Sheet Harbour
 	terrain="forest"
 	culture="maritimer"
-	religion="veteranic"
+	religion="fogsong"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 3702={ #Stratford
 	terrain="plains"
 	culture="gaidheal"
-	religion="veteranic"
+	religion="fogsong"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 3703={ #Charlottetown
 	terrain="farmland"
 	culture="gaidheal"
-	religion="veteranic"
+	religion="fogsong"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 3704={ #Montague
 	terrain="forest"
 	culture="gaidheal"
-	religion="veteranic"
+	religion="fogsong"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 4859={ #Sherbrooke
 	terrain="forest"
 	culture="gaidheal"
-	religion="veteranic"
+	religion="fogsong"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 4861={ #Guysborough
 	terrain="forest"
 	culture="gaidheal"
-	religion="veteranic"
+	religion="fogsong"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 6394={ #Port Hawkesbury
 	terrain="forest"
 	culture="mikmaw"
-	religion="veteranic"
+	religion="fogsong"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 7140={ #Potlotek
 	terrain="forest"
 	culture="gaidheal"
-	religion="veteranic"
+	religion="fogsong"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 7141={ #Louisbourg
 	terrain="hills"
 	culture="gaidheal"
-	religion="veteranic"
+	religion="fogsong"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 7142={ #Sydney
 	terrain="hills"
 	culture="gaidheal"
-	religion="veteranic"
+	religion="fogsong"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0

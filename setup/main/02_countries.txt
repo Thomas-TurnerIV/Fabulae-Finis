@@ -2804,7 +2804,7 @@ country = {
 		}
 		MEP = { # Memphremagog
 			government = tribal_chiefdom
-			primary_culture = nouvelle_angleterrais
+			primary_culture = quebecois
 			religion = gothic
 			capital = 1052
 
@@ -3688,7 +3688,6 @@ country = {
 				1084 1082 1080 176 2760 2758 177 174 175 1130 2757 2761 2759
 				1128 6448 1129 
 				7288 6696 7287 7289 6698 2133 7286 2135 2134 2136
-				6391 7142 6392 6393 11928 7141 7140
 				8069 8068 8067 3703 3702 3704 674
 				3163 3236 3164 3237 3238 1882 1880 
 				1721 1719 11930 8934 8932 8933 8931 1720 1722 6697
@@ -6311,14 +6310,14 @@ country = {
 			}
 
 			own_control_core = {
-				11929 6394 4860 4861 1147 4859 1146
+				11929 6394 4860 4861 1147 4859 1146 7142 7141 7140
 			} 
 		}
 		BCT = { # Bouctouche
 			government = despotic_monarchy
 			primary_culture = chiac
 			religion = veteranic
-			capital = 6451
+			capital = 7291
 
 			technology={
 				military_tech={ level=2 progress=0 }

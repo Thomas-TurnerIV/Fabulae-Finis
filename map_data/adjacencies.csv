@@ -110,4 +110,13 @@ From;To;Type;Through;x;y;x;y;
 8067;7290;sea;10133;-1;-1;-1;-1;Kensington-Sackville
 8883;1904;sea;10048;-1;-1;-1;-1;Nantucket-Oak Bluffs
 1904;2178;sea;10048;-1;-1;-1;-1;Oak Bluffs-Barnstable Town
+2761;2757;river_large;10398;-1;-1;-1;-1;St Marys-Fredericton
+175;176;river_large;10398;-1;-1;-1;-1;Saint Jogn-Grand Bay Westfield
+1082;7161;sea;9976;-1;-1;-1;-1;Grand Manan-Lubec
+1082;1084;sea;9976;-1;-1;-1;-1;Grand Manan-Stephen
+1129;6582;sea;9976;-1;-1;-1;-1;Riverside-Parrsboro
+3704;1146;sea;10133;-1;-1;-1;-1;Montague-Pictou
+6937;1201;sea;10151;-1;-1;-1;-1;Saint-Pierre-et-Miquelon-Grand Bank
+9516;7818;sea;9965;-1;-1;-1;-1;Pointe Sud-Mingan
+3035;145;sea;9850;-1;-1;-1;-1;Ny Lesund-West St Modeste
 ;-1;-1;-1;-1;

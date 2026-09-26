@@ -473,7 +473,7 @@
 	}
 }
 
-8165={ #Wapsipinicon
+8165={ #Cedar Rapids
 	terrain="farmland"
 	culture="heartlander"
 	religion="lutheran"
@@ -630,7 +630,7 @@
 	}
 }
 
-8219={ #Moo'uic
+8219={ #Rock Island
 	terrain="farmland"
 	culture="heartlander"
 	religion="catholic"

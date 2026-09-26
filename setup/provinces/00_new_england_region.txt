@@ -958,8 +958,8 @@
 		amount=4
 	}
 	slaves={
-		amount=2
 		religion="gothic"
+		amount=2
 	}
 	slaves={
 		amount=2
