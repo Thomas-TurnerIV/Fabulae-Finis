@@ -1,0 +1,25 @@
+﻿"ONT"={
+	country="ONT"
+	35={ 
+		first_name="Jerry"
+		nickname="NICKNAME_UNRECOGNIZED"
+		family_name="Jones"
+		birth_date=2290.11.11
+		culture="gaidheal"
+		religion="veteranic"
+		no_stats=yes
+		add_martial=6
+		add_charisma=4
+		add_finesse=5
+		add_zeal=6
+		no_traits=yes
+		add_trait="coward"
+		add_trait="arrogant"
+		add_trait="foolish"
+		add_gold=500
+		add_popularity=20
+		c:ONT={
+			set_as_ruler=char:35
+		}
+	}
+}

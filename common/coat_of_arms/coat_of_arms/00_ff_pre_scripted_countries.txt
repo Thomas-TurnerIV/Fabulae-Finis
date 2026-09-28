@@ -2570,3 +2570,63 @@ SPS = {
 		instance = { scale = { 0.3 0.3 } position = { 0.8 0.3 }}
 	}
 }
+
+ATJ = { #South Jersey
+	pattern="pattern_solid.tga"
+	color1=rgb { 47 46 43 }
+	color2=offwhite
+	colored_emblem={
+		color1=offwhite
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.500000 0.520000 }
+			scale={ 1.000000 0.220000 }
+		}
+	}
+
+	colored_emblem={
+		color1=offwhite
+		color2=offwhite
+		texture="ce_elephant.dds"
+		instance={
+			position={ 0.500000 0.80000 }
+			scale={ 0.35 0.35 }
+		}
+		instance={
+			position={ 0.20000 0.250000 }
+			scale={ 0.350 0.35 }
+		}
+		instance={
+			position={ 0.780000 0.250000 }
+			scale={ 0.35 0.35 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 47 46 43 }
+		texture="ce_star_05.dds"
+		instance={
+			position={ 0.750000 0.530000 }
+			scale={ 0.265000 0.265000 }
+		}
+		instance={
+			position={ 0.250000 0.530000 }
+			scale={ 0.265000 0.265000 }
+		}
+		instance={
+			position={ 0.500000 0.530000 }
+			scale={ 0.265000 0.265000 }
+		}
+	}
+
+	colored_emblem={
+		color1=offwhite
+		color2=offwhite
+		texture="ce_crescent_03.dds"
+		instance={
+			position={ 0.500000 0.23000 }
+			scale={ 0.3 0.3 }
+		}
+	}
+}

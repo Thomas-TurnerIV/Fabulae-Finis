@@ -94,7 +94,7 @@
 	culture="dixie"
 	religion="revelationist"
 	trade_goods="iron"
-	civilization_value=38
+	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	nobles={

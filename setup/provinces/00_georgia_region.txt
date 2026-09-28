@@ -29,11 +29,15 @@
 	culture="cherokee"
 	religion="omenteller"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="atlantean"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 

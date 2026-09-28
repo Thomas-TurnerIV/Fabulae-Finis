@@ -2734,6 +2734,14 @@ country = {
 			primary_culture = ontarian
 			religion = veteranic
 			capital = 7701
+			succession_law = elective_succession_law
+
+			poptype_rights = {
+				{
+					culture = montrealais
+					type = citizen
+				}
+			}
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3032,15 +3040,8 @@ country = {
 		ADI = { #Adirondack
 			government = tribal_kingdom
 			primary_culture = hudsonian
-			religion = transcendentalist
+			religion = clairvoyant
 			capital = 1770
-
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
 
 			own_control_core = {
 				1770 1768 2313 2314 2312
@@ -3676,6 +3677,14 @@ country = {
 			primary_culture = maritimer
 			religion = veteranic
 			capital = 2133
+			family = 16
+
+			poptype_rights = {
+				{
+					culture = gaidheal
+					type = citizen
+				}
+			}
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -5205,7 +5214,7 @@ country = {
 			}
 		}
 		HMM = { #Homosassa Springs
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = amerikaniotis
 			religion = springsearcher
 			capital = 5457

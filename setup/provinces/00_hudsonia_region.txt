@@ -860,7 +860,7 @@
 
 5776={ #Seneca Falls
 	terrain="hills"
-	culture="upstater"
+	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="horses"
 	civilization_value=18
@@ -886,7 +886,7 @@
 
 5777={ #Ithaca
 	terrain="hills"
-	culture="upstater"
+	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="beer"
 	civilization_value=20
@@ -1575,7 +1575,7 @@
 
 9489={ #Cortland
 	terrain="hills"
-	culture="upstater"
+	culture="haudenosaunee"
 	religion="clairvoyant"
 	trade_goods="limestone"
 	civilization_value=10

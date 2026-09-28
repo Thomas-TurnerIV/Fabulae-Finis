@@ -1,0 +1,26 @@
+﻿"MRI"={
+	country="MRI"
+	36={ 
+		first_name="Wylie"
+		nickname="MARITIMES_NICKNAME"
+		family = c:MRI.fam:Beaton
+		birth_date=2294.9.22
+		culture="gaidheal"
+		religion="veteranic"
+		no_stats=yes
+		add_martial=12
+		add_charisma=8
+		add_finesse=10
+		add_zeal=8
+		no_traits=yes
+		add_trait="just"
+		add_trait="proud"
+		add_trait="patient"
+		add_trait="one_eyed"
+		add_gold=300
+		add_popularity=75
+		c:MRI={
+			set_as_ruler=char:36
+		}
+	}
+}

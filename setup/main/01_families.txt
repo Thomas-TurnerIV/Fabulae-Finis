@@ -114,5 +114,12 @@ family={
 			prestige=100
 			color = 1
 		}
+		16 = {
+			key = "Beaton"
+			owner=MRI
+			culture=gaidheal
+			prestige=300
+			color = 4
+		}
 	}
 }
