@@ -186,6 +186,8 @@
 	
 	graphical_culture = thracian_gfx
 	ethnicities = {
-		10 = greek
+		6 = roman
+		2 = illyrian
+		2 = scythian
 	}
 }

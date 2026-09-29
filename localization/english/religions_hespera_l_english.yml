@@ -289,6 +289,10 @@
  cao_dai:0 "Cao Dai"
  desc_cao_dai:0 "Originating from across the Pacific, the Heavenly Court of Cao Đài grew out of the myriad of traditions found across East Asia which have since intermingled with those found throughout California. Upon the separation of believers from the Ancestral Holy See after The Great Struggle, those living in the region consolidated within the Court of Heavenly Reason. Influenced by one of the founder's disciples, a woman named Bách Điều Hòa, female clergy members form the heart of the faith across the West Coast, where they make it their mission to not only teach the revelation of Cao Đài, but also to redeem the masses in the example of their shining Lord."
 
+ ## Souveraignist ##
+ souveraignist:0 "Souveraignist"
+ desc_souveraignist:0 "Quebec has a long and storied history of struggle against the oppression of both state and church, and has accordingly been the birthplace of many a movement both secular and spiritual that seeks to fight these oppressive forces and strip them of their power. Though the nature of these movements has varied from movement to movement and even from adherent to adherent, all Souveraignists will fight to protect their own from those who would seek to oppress them, and return power of all sorts to those who are most deserving of it."
+
  ## New Pantheon Categories ##
  religion_category_founders:0 "Founder"
  religion_category_saints:0 "Saint"

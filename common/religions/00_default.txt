@@ -169,8 +169,8 @@ ursuline = { # Ursuline
 	color = rgb { 229 178 0 }
 	modifier = {
 		heavy_cavalry_morale = 0.10
-		religious_tech_investment = 0.05
-		monthly_political_influence_modifier = -0.05
+		global_nobles_happyness = 0.04
+		global_freemen_happyness = -0.04
 	}
 	religion_category = saints
 	is_monotheistic = yes
@@ -1012,10 +1012,22 @@ haredi = { # Haredi
 ## Cao Dai ##
 cao_dai = { # Cao Dai
 	color = rgb { 0 168 107 }
-	modifier = { #Placeholder
+	modifier = {
 		global_citizen_output = 0.10
 		omen_power = 0.05 
 		war_score_cost = 0.05
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+## Souveraignist ##
+souveraignist = { # Souveraignist
+	color = rgb { 12 21 92 }
+	modifier = { #Placeholder
+		discipline = 0.03
+		civic_tech_investment = 0.10
+		monthly_political_influence_modifier = -0.05
 	}
 	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense

@@ -2889,6 +2889,9 @@
 	
 	graphical_culture = roman_gfx
 	ethnicities = {
-		10 = greek
+		2 = central_african
+		6 = greek
+		2 = anatolian
+		2 = roman
 	}
 }

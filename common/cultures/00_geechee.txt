@@ -46,6 +46,7 @@
 	
 	graphical_culture = roman_gfx
 	ethnicities = {
-		10 = greek
+		8 = west_african
+		2 = ethiopian
 	}
 }

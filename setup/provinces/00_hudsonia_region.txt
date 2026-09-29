@@ -101,7 +101,7 @@
 
 615={ #Geneva
 	terrain="forest"
-	culture="haudenosaunee"
+	culture="upstater"
 	religion="gaiwiio"
 	trade_goods="cattle"
 	civilization_value=20
@@ -860,7 +860,7 @@
 
 5776={ #Seneca Falls
 	terrain="hills"
-	culture="haudenosaunee"
+	culture="upstater"
 	religion="gaiwiio"
 	trade_goods="horses"
 	civilization_value=18

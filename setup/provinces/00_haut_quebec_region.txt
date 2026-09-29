@@ -118,7 +118,7 @@
 1744={ #Saint Gabriel
 	terrain="farmland"
 	culture="montrealais"
-	religion="veteranic"
+	religion="souveraignist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 1927={ #Sorel Tracy
 	terrain="farmland"
 	culture="montrealais"
-	religion="veteranic"
+	religion="souveraignist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 1928={ #Saint Hyacinthe
 	terrain="plains"
 	culture="montrealais"
-	religion="veteranic"
+	religion="souveraignist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 1929={ #Acton Vale
 	terrain="plains"
 	culture="montrealais"
-	religion="ursuline"
+	religion="souveraignist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 2226={ #Saint Alexis Des Monts
 	terrain="forest"
 	culture="montrealais"
-	religion="ursuline"
+	religion="souveraignist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 2227={ #Saint Tite
 	terrain="forest"
 	culture="quebecois"
-	religion="ursuline"
+	religion="souveraignist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 2228={ #Shawinigan
 	terrain="forest"
 	culture="montrealais"
-	religion="ursuline"
+	religion="souveraignist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 6472={ #B Cancour
 	terrain="plains"
 	culture="quebecois"
-	religion="ursuline"
+	religion="souveraignist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 8303={ #Trois Rivi Res
 	terrain="farmland"
 	culture="montrealais"
-	religion="ursuline"
+	religion="souveraignist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -807,7 +807,7 @@
 8304={ #Louiseville
 	terrain="farmland"
 	culture="montrealais"
-	religion="ursuline"
+	religion="souveraignist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 8305={ #Village Sainte Marie
 	terrain="plains"
 	culture="quebecois"
-	religion="ursuline"
+	religion="souveraignist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0

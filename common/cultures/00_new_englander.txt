@@ -3518,5 +3518,6 @@
 		10 = britannic
 		2 = celtic
 		2 = roman
+		2 = west_african
 	}
 }

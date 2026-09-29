@@ -3003,10 +3003,10 @@ country = {
 				7678 7677 3586 3584 7413 7411 7676 587 586 9345 8493 3585 376 2249 2247 7158 
 			}
 		}
-		TRV = { # Trois-Riviere
+		TRV = { # Trois-Rivieres
 			government = aristocratic_republic
 			primary_culture = montrealais
-			religion = ursuline
+			religion = souveraignist
 			capital = 8303
 
 			technology={
